@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SEAutomation.Console/SEAutomation.Console.vcxproj" Id="9274a7d1-d233-4c0c-9108-ca3ea329f370" />
+  <Project Path="SEAutomation.Library/SEAutomation.Library.vcxproj" Id="57500ed6-38a6-4979-8312-6c4c7443e1cf" />
+</Solution>
